@@ -1,2 +1,31 @@
 # Domain-Persistence-Detection-Triage-and-Recovery-SO-CON-2024
 Resources Links for the Research Based on Josh Prager and Nico Shyne's
+
+## Links
+- https://posts.specterops.io/domain-of-thrones-part-i-c183ee4bf379
+- https://posts.specterops.io/domain-of-thrones-part-ii-45080d5dbfc8
+- https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf
+- https://learn.microsoft.com/en-us/windows-server/storage/file-server/volume-shadow-copy-service
+- https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/understand-security-identifiers
+- https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/how-to-manage-groups
+- https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/replication/active-directory-replication-concepts
+- https://learn.microsoft.com/en-us/azure/active-directory-domain-services/concepts-forest-trust
+- https://learn.microsoft.com/en-us/windows/win32/seccng/cng-dpapi-backup-keys-on-ad-domain-controllers
+- https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/domain-member-maximum-machine-account-password-age
+- https://specterops.io/wp-content/uploads/sites/3/2022/06/Certified_Pre-Owned.pdf
+- https://atomicredteam.io/
+- https://media.defense.gov/2023/May/24/2003229517/-1/-1/0/CSA_Living_off_the_Land.PDF
+- https://speakerd.s3.amazonaws.com/presentations/55c05475608048459b27dd8679160b5f/ZeroNights_2017_Kheirkhabarov.pdf
+- https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756
+- https://github.com/MicrosoftDocs/windowsserverdocs/tree/main/WindowsServerDocs/identity/ad-ds/manage/forest-recovery-guide
+- https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/forest-recovery-guide/ad-forest-recovery-devise-a-plan
+- https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/forest-recovery-guide/ad-forest-recovery-recover-single-domain-multidomain-forest
+- https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/audit-policy-recommendations
+- https://www.cobaltstrike.com/blog/windows-access-tokens-and-alternate-credentials
+- https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor
+- https://www.slideshare.net/nikhil_mittal/0wnpremises-bypassing-microsoft-defender-for-identity
+- https://www.synacktiv.com/en/publications/a-dive-into-microsoft-defender-for-identity#
+- https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn786435(v=ws.11)
+- https://mssec.wordpress.com/2013/04/09/delete-local-crl-cache-in-windows/
+- https://msdn.microsoft.com/en-us/library/cc223791.aspx
+- https://specopssoft.com/blog/powershell-force-password-change/#:~:text=If%20we'd%20like%20to,option%20on%20all%20of%20them
